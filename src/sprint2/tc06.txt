@@ -1,0 +1,3 @@
+someone has done tc6
+
+someone added tc to the smoke suite
